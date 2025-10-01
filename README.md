@@ -6,8 +6,10 @@ PT: O presente repositório é uma coleção de resoluções, comentários e con
 
 FR: Ce référentiel est un recueil de résolutions, de commentaires et de considérations tirés du livre « Data Structures and Algorithms in Python » (lien : https://nibmehub.com/opac-service/pdf/read/Data%20Structures%20and%20Algorithms%20in%20Python.pdf).
 
-In the first chapter, corresponding to folder "C1", we will cover about a Pyton overview, the basic syntax, control flow, functions, loops, exceptions, iterators and initial conveniences.
+EN: In the first chapter, corresponding to folder "C1", we will cover about a Pyton overview, the basic syntax, control flow, functions, loops, exceptions, iterators and initial conveniences.
 
-In the second chapter, we will be introduced to OOP in Python, that are, by the way, a little differente of the popular OOP languages, like Java and C#, but still utile.
+FR: Dans le premiere chapitre, correspondant au repertoire "C1", nous aborderons les conventions, les fonctions, les boucles et les exceptions.
 
+EN: In the second chapter, we will be introduced to OOP in Python, that are, by the way, a little differente of the popular OOP languages, like Java and C#, but still utile.
 
+FR: Dans le deuxieme chapitre, nous abourderons sur OOP en Python, qui est generalement un peu différent de la façon dont elle est realisé en Java ou C#.
